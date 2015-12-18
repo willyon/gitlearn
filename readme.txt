@@ -11,3 +11,5 @@ git git git
 git try
 >>>>>>> feature1
 git agaim
+
+creating a new branch is quick AND simple
