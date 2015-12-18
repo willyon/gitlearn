@@ -4,5 +4,5 @@ git is charming
 git has a mutable index called stage
 git chacks changes
 git chacks changes of files
-git is cute
+creating a new branch is quick & simple
 
