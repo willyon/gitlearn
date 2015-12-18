@@ -5,10 +5,4 @@ git has a mutable index called stage
 git chacks changes
 git chacks changes of files
 git is cute
-<<<<<<< HEAD
-git git git 
-=======
-git try
->>>>>>> feature1
-git agaim
-creating a new branch is quick & simple
+
